@@ -1,0 +1,11 @@
+﻿# Group 1
+User-agent: Googlebot
+Disallow: /bin/
+Disallow: /packages/
+Disallow: /Properties/
+
+# Group 2
+User-agent: *
+Allow: /
+
+Sitemap: https://bbruce1745ex4a.azurewebsites.net/sitemap.xml
